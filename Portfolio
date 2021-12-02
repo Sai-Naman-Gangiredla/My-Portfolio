@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <style>
+
+
+
+            body{background-image: url("https://wallpaperaccess.com/full/5651978.png");  
+                background-repeat: no-repeat;      
+          background-attachment: fixed;
+        
+          background-size: 100% 100%;
+        
+          backdrop-filter: blur(8px);
+        
+        
+            }
+h1{font-size: 500%;
+color: red;}
+h2{font-size: 400%;}
+p{font-size: 300%;}
+
+        </style>
+    
+</head>
+<body>
+
+<h1> Portfolio:</h1>
+<img src="" width="300" height="300" alt="Sai Naman" align="right">
+<p >Hello<br> Amigos..</p>
+
+<h2>About Me:</h2>
+<p>I am Sai Naman Gangiredla from Visakhapatnam of Andhra Pradesh.I am a fresher of Vellore Institute of Technology,AP;CSE ML And AI .</p>
+<p>Currently Iam Learning Python.<br><p>Iam Intrested In Learnimg New Things.Ive Started Learning Python Past Four Months. And I've Got A Bit Good Grip In It .</p>
+<h1>Educational Details:</h1>
+<h2>School</h2>
+<p>I did my schooling till 10th stardard in Sri Chaitanya Techno school..<br>In 10th class I secured 9.5 points.</p>
+<h2>Intermediate</h2>
+<p>I studied my 11th and 12th in Tirumala Junior College,Tagarapuvalasa,Vizag.</p>
+<h2>Under Graduation</h2>
+<p>I am pursuing my bachelor's degree in VIT AP.</p>
+<h1>Skills and Interests:</h1>
+<p>1.I am mostly interested in History And Knowing About Our Past. And Reading Books.<br>2.I had knowledge about Python and a bit of Html..<br>3.I Had An Experience Of Writing A Code For A Game In Python.<br>
+<h1>Contact Details:</h1>
+<p>Name:Sai Naman</p>
+<p>Mobile No:7288090320</p>
+<p>Mail ID:sainamangangiredla@gmail.com</p>
